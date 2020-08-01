@@ -27,6 +27,6 @@ Some of the methods practiced in this game are:
 
 
 
-[deployed game click here  https://bgeorgiev268.github.io/Minesweeper-JS/] 
+[deployed game click here] ( https://bgeorgiev268.github.io/Minesweeper-JS/)
 
 #minesweeper #javscript_game
